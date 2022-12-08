@@ -1,12 +1,30 @@
 #content{
-	
+	width: 888px;
 }
 #imageright{
-	float: right;
+	margin-left: 20px;
+    width: 300px;
+    float: right;
+    
 }
 #imageleft{
-	
+	margin-right: 40px;
+    margin-bottom: 80px;
+    width: 300px;
+    float: left;
+   
+
+}
 }
 .kepszoveg{
-	
+	font-weight: bold;
+    text-align: center;
+}
+
+h1,h2{
+    text-transform: uppercase;
+}
+
+li {
+    text-align: justify;
 }
